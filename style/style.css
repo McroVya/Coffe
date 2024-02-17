@@ -26,7 +26,6 @@ nav{
     align-items: center;
     padding: 1rem 9%;
     background-color: rgba(1, 1, 1,0.4);
-    /* border-bottom: 1px solid rgb(175, 121, 36); */
     position: fixed;
     top: 0;
     left: 0;
@@ -36,7 +35,7 @@ nav{
 .judul{
     letter-spacing: 1px;
     text-transform: capitalize;
-    font-size: 3rem;
+    font-size: 2rem;
     color: #ffffff;
     font-weight: medium;
     font-style: italic;
@@ -53,7 +52,7 @@ nav .navbar {
 nav .navbar a{
     color: white ;
     font-size: 25px;
-    margin: 0.8rem;
+    margin: 0.5rem;
     padding: 2em;
 }
 nav a:hover{
@@ -95,18 +94,19 @@ main .homepage {
     align-items: center;
 }
 article  .pengantar{
-    padding: 2em 3%;
+    padding: 2em 2%;
     font-size:21px;
     width:90%;
     text-align: justify;
     margin:10em;
+    line-height: 27px;
     margin-left: 10rem;
     margin-right: 10em;
 }
 aside .pendahuluan{
-    width: 800px;
-    margin: 10em;
-    height: 600px;
+    width: 550px;
+    margin: 5em;
+    height: 500px;
 }
 aside .pendahuluan:hover{
     border: 2px solid aqua ;
