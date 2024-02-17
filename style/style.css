@@ -108,9 +108,7 @@ aside .pendahuluan{
     margin: 5em;
     height: 500px;
 }
-aside .pendahuluan:hover{
-    border: 2px solid aqua ;
-}
+
 article .sejarah{
     display: flex;
 }
